@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="EnoxSoftware.OpenCVForUnity.csproj" />
+  <Project Path="EnoxSoftware.OpenCVForUnityExample.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="EnoxSoftware.OpenCVForUnity.Editor.csproj" />
+</Solution>

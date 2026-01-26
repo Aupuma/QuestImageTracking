@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 1160f0307b000334b8c1fe8fba48c8c0
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 77560
+  packageName: MarkerLess AR Example
+  packageVersion: 1.1.2
+  assetPath: Assets/MarkerLessARExample/Materials/axes_x_material_Built-in.mat
+  uploadId: 706761

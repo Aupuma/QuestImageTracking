@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 83de61287d78dcf43a5e6e1522cdc711
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 77560
+  packageName: MarkerLess AR Example
+  packageVersion: 1.1.2
+  assetPath: Assets/MarkerLessARExample/Prefabs/Axes_Z.prefab
+  uploadId: 706761

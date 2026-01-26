@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_ImageTracking/StaticImageTracking.unity
+    guid: 5164fdf852ca9a243b290bbddfb656b2
+  - enabled: 0
+    path: Assets/_ImageTracking/DynamicImageTracking.unity
+    guid: b5cd2a7d943f37847a2027b55fcf9a98
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f2bf97b3acdb64248a707c407c9fc54e, type: 2}
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a971eac5e950046e586c5e153e32d05c, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e35869aee8ec9bd40b7d7549477747b3, type: 2}
+  m_UseUCBPForAssetBundles: 0

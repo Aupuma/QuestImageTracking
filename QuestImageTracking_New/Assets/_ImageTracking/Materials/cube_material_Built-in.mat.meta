@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 97400fd758b63ad4fb3e3ce693bde79c
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 77560
+  packageName: MarkerLess AR Example
+  packageVersion: 1.1.2
+  assetPath: Assets/MarkerLessARExample/Materials/cube_material_Built-in.mat
+  uploadId: 706761

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 898625bffd84aa047968ad37b99d7a52
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 77560
+  packageName: MarkerLess AR Example
+  packageVersion: 1.1.2
+  assetPath: Assets/MarkerLessARExample/MarkerLessAR/Pattern.cs
+  uploadId: 706761
