@@ -16,7 +16,8 @@ This project uses **OpenCV for Unity**.
 Please purchase and install it from the Unity Asset Store:  
 [OpenCV for Unity](https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088?locale=en-US)  
 
-This project has been tested with **OpenCV for Unity v2.6.5**.
+The original version of the project works with **OpenCV for Unity v2.6.5**
+The QuestImageTracking_New project works with MetaXR SDK v83 and higher and **OpenCV for Unity v3+**. This version uses Tasks to avoid blocking the main thread so dynamic tracking is smoother
 
 ## 🔖 Marker Preparation  
 
